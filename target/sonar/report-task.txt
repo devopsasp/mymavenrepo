@@ -1,6 +1,0 @@
-projectKey=samplekey
-serverUrl=http://localhost:9000
-serverVersion=9.0.1.46107
-dashboardUrl=http://localhost:9000/dashboard?id=samplekey
-ceTaskId=AXsQ2XQ6RNAlg3FL0J2Q
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXsQ2XQ6RNAlg3FL0J2Q
